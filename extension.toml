@@ -1,0 +1,7 @@
+id = "vs-2017-dark-theme"
+name = "VS 2017 Dark"
+version = "0.1.0"
+schema_version = 1
+authors = ["Ontto <exelsior87@gmail.com>"]
+description = "A Zed theme inspired by the Visual Studio 2017 Dark theme."
+repository = "https://github.com/exelsior87/zed-vs-2017-dark-theme"
