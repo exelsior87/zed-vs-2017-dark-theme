@@ -59,6 +59,9 @@ The color palette and syntax highlighting are based on Microsoft's
 [`2017 Dark (Visual Studio - C/C++)`](https://github.com/microsoft/vscode-cpptools/blob/main/Themes/themes/cpptools_dark_vs.json)
 theme.
 
+Microsoft's copyright notice and the applicable MIT license are reproduced in
+[`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
+
 ## Feedback
 
 Please report issues and suggestions through
